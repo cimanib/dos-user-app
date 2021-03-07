@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'ag-grid-community/dist/styles/ag-grid.css';
+@import 'ag-grid-community/dist/styles/ag-theme-balham.css';
+
+#navbarSupportedContent{
+
+    background-color:rgb(175, 235, 227);
+    box-shadow: #8a2be2;
+}
+.ag-header-row-column{
+    background-color:rgb(175, 235, 227);
+
+}
